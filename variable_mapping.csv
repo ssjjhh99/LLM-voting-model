@@ -1,0 +1,129 @@
+dataset,theme,table_id,table_name,var_id,description,var_values,national_count,value_id
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,80 to 84 years,6356343,18
+Base Data Pack,Demography,dem,Demographics,dem_07,Family Size,4-person household,48979010,50
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Management business and financial occupations,48273466,71
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,50 to 54 years,21542424,10
+Base Data Pack,Demography,dem,Demographics,dem_06,Marital Status,Divorced,28526712,46
+Base Data Pack,Demography,dem,Demographics,dem_10,Education,Bachelor's degree,51862206,67
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$20 000 to $22 499,11245976,101
+Base Data Pack,Demography,dem,Demographics,dem_03,Ethnicity,Population of one race: Some other race,14272129,27
+Base Data Pack,Demography,dem,Demographics,dem_09,Home Ownership,Renter occupied,90499732,60
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Legal occupations,3307225,76
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Personal care and service occupations,4731173,84
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Production occupations,17249031,90
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$35 000 to $39 999,13721616,105
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$5 000 to $7 499,10197347,95
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,67 to 69 years,10345691,15
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,55 to 59 years,22436989,11
+Base Data Pack,Demography,dem,Demographics,dem_07,Family Size,5-person household,23108006,51
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$17 500 to $19 999,6873566,100
+Base Data Pack,Demography,dem,Demographics,dem_04,Language,Speak other & Speak English not at all,2860814,32
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Transportation occupations,10088019,91
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Healthcare support occupations,7443058,80
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$55 000 to $64 999,16254849,109
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$45 000 to $49 999,10427108,107
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$200 000 or more,26472707,128
+Base Data Pack,Demography,dem,Demographics,dem_06,Marital Status,Never married,86978047,43
+Base Data Pack,Demography,dem,Demographics,dem_10,Education,Less than 12th grade,26685916,62
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Construction and extraction occupations,14209360,88
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$20 000 to $24 999,8771087,116
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$10 000 to $14 999,6241197,114
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$65 000 to $74 999,12703162,110
+Base Data Pack,Demography,dem,Demographics,dem_02,Gender,Male,127802538,21
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$22 500 to $24 999,7117880,102
+Base Data Pack,Demography,dem,Demographics,dem_05,Commute,Other means,2580688,40
+Base Data Pack,Demography,dem,Demographics,dem_08,Live with children,5 years,13275751,56
+Base Data Pack,Demography,dem,Demographics,dem_10,Education,Some college less than 1 year,16241470,64
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$25 000 to $29 999,16768208,103
+Base Data Pack,Demography,dem,Demographics,dem_05,Commute,Motorcycle,373667,37
+Base Data Pack,Demography,dem,Demographics,dem_10,Education,Some college 1 or more years no degree,36460970,65
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$12 500 to $14 999,7696271,98
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$50 000 to $59 999,19147536,122
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,35 to 39 years,21768087,7
+Base Data Pack,Demography,dem,Demographics,dem_05,Commute,Public transportation (excluding taxicab),11747832,35
+Base Data Pack,Demography,dem,Demographics,dem_05,Commute,Taxicab,517630,36
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,65 to 66 years,7578111,14
+Base Data Pack,Demography,dem,Demographics,dem_05,Commute,Bicycle,1297325,38
+Base Data Pack,Demography,dem,Demographics,dem_07,Family Size,3-person household,58956937,49
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,30 to 34 years,22687804,6
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,22 to 24 years,13161355,4
+Base Data Pack,Demography,dem,Demographics,dem_04,Language,Speak only English,202386883,28
+Base Data Pack,Demography,dem,Demographics,dem_06,Marital Status,Married spouse absent: Separated,4876249,44
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$25 000 to $29 999,9310537,117
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$60 000 to $74 999,26279238,123
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Computer and mathematical occupations,9424477,72
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,25 to 29 years,23783060,5
+Base Data Pack,Demography,dem,Demographics,dem_03,Ethnicity,Population of one race: Asian,15383447,25
+Base Data Pack,Demography,dem,Demographics,dem_08,Live with children,3 and 4 years,27923076,55
+Base Data Pack,Demography,dem,Demographics,dem_10,Education,No schooling completed,4132218,61
+Base Data Pack,Demography,dem,Demographics,dem_03,Ethnicity,Population of one race: White,193563321,22
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$30 000 to $34 999,10107543,118
+Base Data Pack,Demography,dem,Demographics,dem_06,Marital Status,Widowed,15243692,47
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Protective service occupations,6596401,81
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$1 to $2 499 or loss,14046859,93
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$15 000 to $19 999,7472349,115
+Base Data Pack,Demography,dem,Demographics,dem_03,Ethnicity,Population of one race: American Indian and Alaska Native,2228583,24
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$75 000 to $99 999,36674831,124
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$40 000 to $44 999,10115515,120
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,40 to 44 years,20417045,8
+Base Data Pack,Demography,dem,Demographics,dem_06,Marital Status,Married spouse absent: Other,6911122,45
+Base Data Pack,Demography,dem,Demographics,dem_07,Family Size,6-person household,9039512,52
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$10 000 to $12 499,10373880,97
+Base Data Pack,Demography,dem,Demographics,dem_05,Commute,Car truck or van: Drove alone,194931045,33
+Base Data Pack,Demography,dem,Demographics,dem_08,Live with children,12 to 17 years,92594775,58
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$2 500 to $4 999,9883791,94
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$150 000 to $199 999,22422242,127
+Base Data Pack,Demography,dem,Demographics,dem_04,Language,Spanish & Speak English not at all,35478136,29
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,60 to 61 years,8811852,12
+Base Data Pack,Demography,dem,Demographics,dem_07,Family Size,7+ -person household,5889858,53
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Farming fishing and forestry occupations,1701973,87
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$75 000 to $99 999,20436907,111
+Base Data Pack,Demography,dem,Demographics,dem_08,Live with children,6 to 11 years,85261204,57
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,Less than $10 000,10129489,113
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,18 to 19 years,8647007,1
+Base Data Pack,Demography,dem,Demographics,dem_05,Commute,Worked from home,18331301,41
+Base Data Pack,Demography,dem,Demographics,dem_08,Live with children,Under 3 years,40907438,54
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Building and grounds cleaning and maintenance occupations,8531225,83
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$100 000 to $124 999,28174667,125
+Base Data Pack,Demography,dem,Demographics,dem_03,Ethnicity,Population of one race: Native Hawaiian and Other Pacific Islander,540302,26
+Base Data Pack,Demography,dem,Demographics,dem_03,Ethnicity,Population of one race: Black or African American,33974462,23
+Base Data Pack,Demography,dem,Demographics,dem_09,Home Ownership,Owner occupied,169462512,59
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Sales and related occupations,23292368,85
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Community and social service occupations,5013315,75
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$15 000 to $17 499,9860733,99
+Base Data Pack,Demography,dem,Demographics,dem_05,Commute,Car truck or van: Carpooled,23100273,34
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Office and administrative support occupations,29550787,86
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$40 000 to $44 999,14606133,106
+Base Data Pack,Demography,dem,Demographics,dem_10,Education,Professional school degree,5558455,69
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Food preparation and serving related occupations,8925173,82
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Life physical and social science occupations,2775011,74
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Arts design entertainment sports and media occupations,4325339,78
+Base Data Pack,Demography,dem,Demographics,dem_10,Education,High school graduate (includes equivalency),69609952,63
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$100 000 or more,29320485,112
+Base Data Pack,Demography,dem,Demographics,dem_07,Family Size,2-person household,113988921,48
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Installation maintenance and repair occupations,9765856,89
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Healthcare practitioners and technical occupations,16177080,79
+Base Data Pack,Demography,dem,Demographics,dem_10,Education,Doctorate degree,3807714,70
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$50 000 to $54 999,12845172,108
+Base Data Pack,Demography,dem,Demographics,dem_04,Language,Speak Indo-European & Speak English not at all,9766568,30
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Architecture and engineering occupations,6022242,73
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$45 000 to $49 999,9455237,121
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,75 to 79 years,9498896,17
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,70 to 74 years,13778978,16
+Base Data Pack,Demography,dem,Demographics,dem_05,Commute,Walked,7082483,39
+Base Data Pack,Demography,dem,Demographics,dem_10,Education,Associate's degree,22409523,66
+Base Data Pack,Demography,dem,Demographics,dem_10,Education,Master's degree,23193820,68
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,45 to 49 years,21029447,9
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Material moving occupations,8814320,92
+Base Data Pack,Demography,dem,Demographics,dem_11,Profession,Educational instruction and library occupations,13745345,77
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,20 years,4529042,2
+Base Data Pack,Demography,dem,Demographics,dem_02,Gender,Female,132159706,20
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$7 500 to $9 999,7692463,96
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$35 000 to $39 999,9700802,119
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,21 years,4490194,3
+Base Data Pack,Demography,dem,Demographics,dem_04,Language,Speak Asian and Pacific Island & Speak English not at all,9469843,31
+Base Data Pack,Demography,dem,Demographics,dem_06,Marital Status,Married spouse present,117426422,42
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,62 to 64 years,12188614,13
+Base Data Pack,Demography,dem,Demographics,dem_12,Income,$30 000 to $34 999,17889838,104
+Base Data Pack,Demography,dem,Demographics,dem_01,Age,85 years and over,6911305,19
+Base Data Pack,Demography,dem,Demographics,dem_13,Family Income,$125 000 to $149 999,19487267,126
